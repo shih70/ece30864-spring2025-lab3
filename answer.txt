@@ -5,3 +5,9 @@ Pros: high flexibility and adaptability
 
 Cons: struggle with scope creep and may lack a long-term vision
       challenging for large projects or when stakeholders are unclear
+
+(b) Explain the role and responsibilities of the Scrum Master vs the Product Owner.
+
+Scrum Master: focuses on process, facilitating the Scrum process, ensuring the team works efficiently, and removing blockers
+
+Product Owner: focuses on content by managing the product backlog, prioritizing features, and aligning work with business goals
