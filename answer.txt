@@ -11,3 +11,11 @@ Cons: struggle with scope creep and may lack a long-term vision
 Scrum Master: focuses on process, facilitating the Scrum process, ensuring the team works efficiently, and removing blockers
 
 Product Owner: focuses on content by managing the product backlog, prioritizing features, and aligning work with business goals
+
+(c) What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
+
+Sprint Planning: sprint goal, assign stories to team
+
+Daily Scrum: what was done yesterday, what will be done today
+
+Sprint Retrospective: completed work, feedback from stakeholders
