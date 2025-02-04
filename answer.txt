@@ -1,1 +1,7 @@
+(a) What are some Pros and Cons of Agile development (vs non-Agile)?
 
+Pros: high flexibility and adaptability
+      able to deliver software in smaller, more frequent increments
+
+Cons: struggle with scope creep and may lack a long-term vision
+      challenging for large projects or when stakeholders are unclear
