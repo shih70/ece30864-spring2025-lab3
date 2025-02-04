@@ -19,3 +19,13 @@ Sprint Planning: sprint goal, assign stories to team
 Daily Scrum: what was done yesterday, what will be done today
 
 Sprint Retrospective: completed work, feedback from stakeholders
+
+(d) Differentiate between Epic, Story, Bug, and Task issue types in JIRA
+
+Epic: large body of work that spans across multiple sprints and is often related to a major feature which can be broken down into smaller tasks or stories
+
+Story: smaller, more detailed unit of work that describes a feature or functionality from the end user's perspective
+
+Bug: represents a defect or problem in the system that needs to be fixed
+
+Task: low-level implementation detail performed by a software developer
